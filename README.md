@@ -1,0 +1,2 @@
+Connecttel telecom company is confronted with the critical issue of customer churn, posing a significant threat to its business sustainability and growth. The company's existing customer retention strategies lack precision and effectiveness, leading to the loss of valuable customers to competitors.
+![image](https://github.com/adegokeaa44/Telco_churn_prediction/assets/115806599/1b2a7cb1-c0ec-4632-86c4-1733d1ac4183)
